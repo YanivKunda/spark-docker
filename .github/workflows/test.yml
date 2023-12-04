@@ -44,6 +44,7 @@ on:
         options:
         - 11
         - 17
+        - 21
       scala:
         description: 'The Scala version of Spark image.'
         default: 2.12
